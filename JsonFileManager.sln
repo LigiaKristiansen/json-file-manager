@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonFileManager", "JsonFileManager\JsonFileManager.csproj", "{1D598E74-4FCC-4002-BF08-2E383696A514}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonFileManager.Tests", "JsonFileManager.Tests\JsonFileManager.Tests.csproj", "{B4503706-5F87-4362-84F8-113A77F5271D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1D598E74-4FCC-4002-BF08-2E383696A514}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D598E74-4FCC-4002-BF08-2E383696A514}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D598E74-4FCC-4002-BF08-2E383696A514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4503706-5F87-4362-84F8-113A77F5271D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4503706-5F87-4362-84F8-113A77F5271D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4503706-5F87-4362-84F8-113A77F5271D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4503706-5F87-4362-84F8-113A77F5271D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
